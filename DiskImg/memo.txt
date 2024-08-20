@@ -1,0 +1,1 @@
+kernel7.img will appear in this directory.

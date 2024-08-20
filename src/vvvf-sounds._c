@@ -1,0 +1,11 @@
+#include <stdbool.h>
+#include <math.h>
+#include "vvvf-struct.h"
+#include "vvvf-core.h"
+#include "vvvf-sounds.h"
+#include "pi-values.h"
+
+VvvfSoundFunction vvvf_sounds[] = {
+};
+
+const int vvvf_sounds_len = 1;

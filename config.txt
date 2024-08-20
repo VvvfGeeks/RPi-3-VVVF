@@ -1,0 +1,17 @@
+# Core Setting
+force_turbo=1
+arm_freq=1400
+gpu_freq=600
+sdram_freq=550
+#over_voltage=3
+
+# Display Setting
+# This configuration is optimized for HA-101XIEB0GA0-A
+
+framebuffer_depth=16
+framebuffer_width=640
+framebuffer_height=360
+disable_overscan=1
+hdmi_group=2
+hdmi_mode=87
+hdmi_cvt=1024 600 60 2 0 0 0
